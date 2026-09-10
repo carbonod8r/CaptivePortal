@@ -6,6 +6,7 @@ Um captive portal "limpo" feito com ESP32: cria uma rede Wi-Fi aberta, intercept
 
 ## Como fica
 
+<<<<<<< Updated upstream
 <p align="center">
   <img src="projetoCaptivePortal.jpg" alt="Captive Portal funcionando" width="420">
 </p>
@@ -13,6 +14,9 @@ Um captive portal "limpo" feito com ESP32: cria uma rede Wi-Fi aberta, intercept
 <p align="center">
   <em>Captive Portal funcionando localmente em um ESP32.</em>
 </p>
+=======
+<img src="projetoCaptivePortal.jpg" alt="Página do captive portal aberta no celular" width="320">
+>>>>>>> Stashed changes
 
 Quando alguém conecta na rede, o celular detecta o captive portal e abre essa página sozinho.
 
