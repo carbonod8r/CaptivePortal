@@ -1,12 +1,12 @@
 # 📡 CaptivePortal
 
-Um captive portal "limpo" feito com ESP32: cria uma rede Wi-Fi aberta, intercepta as consultas DNS e serve uma página local explicando, na prática, como esse mecanismo funciona — o mesmo usado em redes de hotéis, aeroportos e shoppings.
+Um captive portal "limpo" feito com ESP32: cria uma rede Wi-Fi aberta, intercepta as consultas DNS e serve uma página local explicando, na prática, como esse mecanismo funciona.
 
 **Sem login falso. Sem captura de credenciais.** O foco é entender a mecânica de rede por trás do fenômeno, não replicar golpes.
 
 ## Como fica
 
-<img src="screenshot.jpg" alt="Página do captive portal aberta no celular" width="320">
+<img src="projetoCaptivePortal.jpg" alt="Página do captive portal aberta no celular" width="320">
 
 Quando alguém conecta na rede, o celular detecta o captive portal e abre essa página sozinho.
 
