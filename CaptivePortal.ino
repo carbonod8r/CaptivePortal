@@ -305,7 +305,7 @@ const char htmlPage[] PROGMEM = R"rawliteral(
 </div>
 
 <footer>
-  <p class="mono">Wifi_2.4GHZ // Carbonod8r</p>
+  <p class="mono">Captive Portal // https://github.com/carbonod8r/CaptivePortal</p>
   <p>Projeto pessoal de estudo em redes.</p>
 </footer>
 
